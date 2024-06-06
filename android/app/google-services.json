@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "746030524765",
+    "project_id": "nocturna1",
+    "storage_bucket": "nocturna1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746030524765:android:cda52bd2085c4f9d2c20b4",
+        "android_client_info": {
+          "package_name": "com.app.suitcaserx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhcEVK4DTffkRA9neh_sQWf-_ox6ER-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746030524765:android:833d97a73edd166a2c20b4",
+        "android_client_info": {
+          "package_name": "com.example.nochub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhcEVK4DTffkRA9neh_sQWf-_ox6ER-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746030524765:android:065ac34bce014db22c20b4",
+        "android_client_info": {
+          "package_name": "com.example.nocturna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhcEVK4DTffkRA9neh_sQWf-_ox6ER-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746030524765:android:ac5fd8e116b183442c20b4",
+        "android_client_info": {
+          "package_name": "com.example.nocturnapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhcEVK4DTffkRA9neh_sQWf-_ox6ER-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746030524765:android:0e1a75a545c92d272c20b4",
+        "android_client_info": {
+          "package_name": "com.norutna.nortuna1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhcEVK4DTffkRA9neh_sQWf-_ox6ER-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
