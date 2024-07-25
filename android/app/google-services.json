@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714329037530",
+    "project_id": "nocturnapro-7aec5",
+    "storage_bucket": "nocturnapro-7aec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714329037530:android:a110f83e4877d4705e63e3",
+        "android_client_info": {
+          "package_name": "com.nocturna.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAFdvkAzprhRUSGrJu_WMReSCJhYYBbNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

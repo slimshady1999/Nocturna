@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Replace these values with your Firebase project configuration -->
+    <string name="1:714329037530:android:a110f83e4877d4705e63e3">YOUR_GOOGLE_APP_ID</string>
+    <string name="https://nocturnapro-7aec5-default-rtdb.firebaseio.com/">YOUR_DATABASE_URL</string>
+    <string name="714329037530">YOUR_SENDER_ID</string>
+    <string name="AIzaSyDAFdvkAzprhRUSGrJu_WMReSCJhYYBbNk">YOUR_API_KEY</string>
+    <string name="nocturnapro-7aec5.appspot.com">YOUR_STORAGE_BUCKET</string>
+</resources>
